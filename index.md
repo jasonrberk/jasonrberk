@@ -1,8 +1,8 @@
 # Jason Berk
 
-[https://linkedin.com/in/jasonberk](https://www.jasonrberk.com/)
+[https://linkedin.com/in/jasonberk](https://linkedin.com/in/jasonberk)
 
-[jason.r.berk@gmail.com](https://www.jasonrberk.com/)
+[jason.r.berk@gmail.com](mailto:jason.r.berk@gmail.com)
 
 I am a highly motivated individual and adaptable to a variety of IT work.  I’m passionate about software development and pride myself on writing clean and maintainable code.  My goal is to find an opportunity that allows me to use my experience and knowledge to provide technical leadership.   
 
@@ -14,7 +14,7 @@ I am a highly motivated individual and adaptable to a variety of IT work.  I’m
 
   * I am currently working on a complete rebuild of our Graylog cluster utilizing AWS EC2 / OpenSearch and SaltStack config management with Python/Jinja.  
     * By adjusting global logging configuration, retention and rotation policies of stored logs and correctly sizing infrastructure I estimate savings of roughly $7,500/month while increasing production log retention.
-  * I implemented a custom version of [https://runatlantis.io](https://www.jasonrberk.com/) allowing over 50 engineers to manage their own Terraform (TF) across roughly 30 AWS accounts.  
+  * I implemented a custom version of [https://runatlantis.io](https://runatlantis.io) allowing over 50 engineers to manage their own Terraform (TF) across roughly 30 AWS accounts.  
     * This new system enforces company rules around the PR process and provides auditability.  I gained experience with TF, Docker, Fargate and ExpressJS on this project.
   * I was pivotal in the creation of our “CTOR” tooling used by 50+ feature team engineers to bootstrap everything needed to create a new microservice:  
     * GitHub/DTR/nexus repos
