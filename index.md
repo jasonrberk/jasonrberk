@@ -55,6 +55,6 @@ I am a highly motivated individual and adaptable to a variety of IT work.  I’m
 
 ## Projects
 
-[https://borrowedtimeeap.com](https://www.jasonrberk.com/) - Web Designer / Maintainer
+[https://borrowedtimeeap.com](https://borrowedtimeeap.com/) - Web Designer / Maintainer
 
 * Built with NuxtJS using Tailwind CSS and hosted on GitHub Pages.
