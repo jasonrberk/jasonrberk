@@ -4,7 +4,7 @@
 
 [jason.r.berk@gmail.com](mailto:jason.r.berk@gmail.com)
 
-I am a highly motivated individual and adaptable to a variety of IT work.  I’m passionate about software development and pride myself on writing clean and maintainable code.  My goal is to find an opportunity that allows me to use my experience and knowledge to provide technical leadership.   
+I am a highly motivated and self driven individual. I bring a long history of delivering impactful contributions to a wide range of software engineering projects.  I’m passionate about software development and pride myself on writing clean and maintainable code.  My goal is to find an opportunity that allows me to use my experience and knowledge to provide technical leadership.   
 
 ## Experience
 
