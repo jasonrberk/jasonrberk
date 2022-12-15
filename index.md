@@ -8,7 +8,15 @@ I am a highly motivated and self driven individual looking for a full stack soft
 
 ## Experience
 
-2014 - PRESENT 
+09/2022 - Present
+
+* [Bonterratech](https://www.bonterratech.com/) - Senior Software Engineer / Architect 
+  * providing AWS guidance
+  * learning the existing Web Logic application server
+  * redesigning integrations with Docusign and Adobe
+  * advocating for better CI/CD pipelines using Docker
+
+2014 - 09/2022
 
 * NextGear Capital - Senior Software Engineer
 
