@@ -10,15 +10,14 @@ I am a highly motivated and self driven individual looking for a full stack soft
 
 09/2022 - Present
 
-* [Bonterratech](https://www.bonterratech.com/) - Senior Software Engineer / Architect 
-  * providing AWS guidance
-  * learning the existing Web Logic application server
-  * redesigning integrations with Docusign and Adobe
-  * advocating for better CI/CD pipelines using Docker
+* [Bonterra](https://www.bonterratech.com/) - Senior Software Engineer / Architect 
+  * Providing AWS leadership.  Advancing the usages of Terraform and overall module management and creation
+  * Rearchitecting integrations with Docusign and Adobe to implement more secure OAuth strategies and leverage webhook callbacks instead of polling
+
 
 2014 - 09/2022
 
-* NextGear Capital - Senior Software Engineer
+* [NextGear Capital](https://www.nextgearcapital.com/) - Senior Software Engineer
 
   * I am currently working on a complete rebuild of our Graylog cluster utilizing AWS EC2 / OpenSearch and SaltStack config management with Python/Jinja.  
     * By adjusting global logging configuration, retention and rotation policies of stored logs and correctly sizing infrastructure I estimate savings of roughly $7,500/month while increasing production log retention.
