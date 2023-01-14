@@ -19,7 +19,7 @@ I am a highly motivated and self driven individual looking for a full stack soft
 
 * [NextGear Capital](https://www.nextgearcapital.com/) - Senior Software Engineer
 
-  * I am currently working on a complete rebuild of our Graylog cluster utilizing AWS EC2 / OpenSearch and SaltStack config management with Python/Jinja.  
+  * Led a complete rebuild of our Graylog cluster utilizing AWS EC2 / OpenSearch and SaltStack config management with Python/Jinja.  
     * By adjusting global logging configuration, retention and rotation policies of stored logs and correctly sizing infrastructure I estimate savings of roughly $7,500/month while increasing production log retention.
   * I implemented a custom version of [https://runatlantis.io](https://runatlantis.io) allowing over 50 engineers to manage their own Terraform (TF) across roughly 30 AWS accounts.  
     * This new system enforces company rules around the PR process and provides auditability.  I gained experience with TF, Docker, Fargate and ExpressJS on this project.
@@ -31,7 +31,7 @@ I am a highly motivated and self driven individual looking for a full stack soft
     * Artifact exploit scanning with Veracode
   * I helped design and build our Veracode / Rally Issue Tracker integration.  This tooling synchronizes defects based on Veracode scan results each night.  This helps developers identify regressions faster and increases overall security posture.
   * I have created and supported multiple SpringBoot microservices and various internal libraries used by over 90 internal applications.  I am also specifically responsible for most Spring Security components and OAuth2 solutions using Okta and PingFederate.
-  * As a member of the devops team, I develop and help maintain multiple Terraform modules and Terragrunt tooling at an organization level to enforce policies around AWS usage and security.
+  * Developed and maintained multiple Terraform modules and Terragrunt tooling at an organization level to enforce policies around AWS usage and security.
 
 2013 - 2014 
 
