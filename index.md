@@ -11,8 +11,8 @@ I am a highly motivated and self driven individual looking for a full stack soft
 09/2022 - Present
 
 * [Bonterra](https://www.bonterratech.com/) - Senior Software Engineer / Architect 
-  * Providing AWS leadership.  Advancing the usages of Terraform and overall module management and creation
-  * Rearchitecting integrations with Docusign and Adobe to implement more secure OAuth strategies and leverage webhook callbacks instead of polling
+  * Providing AWS leadership.  Advancing the usages of Terraform and overall module management and creation.
+  * Rearchitecting integrations with Docusign and Adobe to implement more secure OAuth strategies and leverage webhook callbacks instead of polling.
 
 
 2014 - 09/2022
