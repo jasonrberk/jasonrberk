@@ -4,7 +4,7 @@
 
 [jason.r.berk@gmail.com](mailto:jason.r.berk@gmail.com)
 
-I am a highly motivated and self driven individual looking for a full stack software engineering position. I bring a long history of delivering impactful contributions to a wide range of projects.  I am passionate about software development and pride myself on writing clean, maintainable code.  Most importantly, I want a position where I can use my expertise to provide technical leadership.   
+I am a highly motivated and self-driven individual looking for a full-stack software engineering position. I bring a long history of delivering impactful contributions to a wide range of projects.  I am passionate about software development and pride myself on writing clean, maintainable code.  I have experience with, and enjoy contributing to, DevOps and CI/CD practices.  Most importantly, I am seeking a position utilizing my experience to contribute technical leadership across the organization.   
 
 ## Experience
 
@@ -14,11 +14,9 @@ I am a highly motivated and self driven individual looking for a full stack soft
   * Providing AWS leadership.  Advancing the usages of Terraform and overall module management and creation.
   * Rearchitecting integrations with Docusign and Adobe to implement more secure OAuth strategies and leverage webhook callbacks instead of polling.
 
-
 2014 - 09/2022
 
 * [NextGear Capital](https://www.nextgearcapital.com/) - Senior Software Engineer
-
   * Led a complete rebuild of our Graylog cluster utilizing AWS EC2 / OpenSearch and SaltStack config management with Python/Jinja.  
     * By adjusting global logging configuration, retention and rotation policies of stored logs and correctly sizing infrastructure I estimate savings of roughly $7,500/month while increasing production log retention.
   * I implemented a custom version of [https://runatlantis.io](https://runatlantis.io) allowing over 50 engineers to manage their own Terraform (TF) across roughly 30 AWS accounts.  
@@ -38,7 +36,7 @@ I am a highly motivated and self driven individual looking for a full stack soft
 * Interactive Intelligence (ININ), Senior Software Engineer
 
   * At ININ, I was a member of an integrated delivery team, working in an agile environment to design, develop, and maintain integrations between 3rd party products and internal tools.  
-  * I also contributed to the next generation of cloud native call center tools intended to replace all customer managed on prem solutions.
+  * I also contributed to the next generation of cloud native call center tools intended to replace all customer managed on-premise solutions.
 
 2008 - 2013 
 
