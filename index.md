@@ -27,7 +27,6 @@ I am a highly motivated and self-driven individual looking for a full-stack soft
     * Java / SpringBoot app which uploads build artifacts and schedules scans
     * Java / SpringBoot app which downloads Veracode XML reports and synchronizes findings with our ticketing system
     * Java project using JAXB to generate a library of reusable model objects for binding to Veracode XML report output
-  * Tech Lead on a feature team that created numerous AngularJS components while converting our internal .NET client to a modern web application.
   * Collaborated on a set of custom SpringBoot starter libraries.  Specifically responsible for most Spring Security components and OAuth2 solutions using Okta and PingFederate.
     * used by over 90 internal applications
     * provides out of the box solutions / configurations for Spring Cloud Config, Spring Actuators, log aggregation, OAuth2 multi-tenancy, standard integration tests, swagger generation and JDBC connectivity
@@ -37,6 +36,7 @@ I am a highly motivated and self-driven individual looking for a full-stack soft
   * Proficient in SQL and JPA.
     * capable of using tools to connect directly to an RDBMS to view, query and modify tables, views, functions and stored procedures
     * experience with Liquibase and Flyway tools
+  * Tech Lead on a feature team that created numerous AngularJS components while converting our internal .NET client to a modern web application.
 
 #### 2013 - 2014 Interactive Intelligence (ININ) - Senior Software Engineer
   * Member of an integrated delivery team, working in an agile environment to design, develop, and maintain integrations between 3rd party products and internal tools.  Extensive experience with AngularJS.
