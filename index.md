@@ -17,7 +17,7 @@ I am a highly motivated and self-driven individual looking for a full-stack soft
     * estimated savings of roughly $7,500/month while increasing production log retention
     * all infrastructure managed in Terraform
   * Implemented a custom version of [Atlantis](https://runatlantis.io) allowing over 50 engineers to manage their own Terraform (TF) across roughly 30 AWS accounts.
-    * enforces company rules around the PR process and provides auditability
+    * enforced company rules around the PR process and provides auditability
     * built with Node/ExpressJS and deployed as docker containers in AWS Fargate
     * all infrastructure managed in Terraform
   * Implemented custom Java miro-service tooling, allowing 50+ engineers to create new services in a consistent manner.
@@ -29,7 +29,7 @@ I am a highly motivated and self-driven individual looking for a full-stack soft
     * Java project using JAXB to generate a library of reusable model objects for binding to Veracode XML report output
   * Collaborated on a set of custom SpringBoot starter libraries.  Specifically responsible for most Spring Security components and OAuth2 solutions using Okta and PingFederate.
     * used by over 90 internal applications
-    * provides out of the box solutions / configurations for Spring Cloud Config, Spring Actuators, log aggregation, OAuth2 multi-tenancy, standard integration tests, swagger generation and JDBC connectivity
+    * provided out of the box solutions / configurations for Spring Cloud Config, Spring Actuators, log aggregation, OAuth2 multi-tenancy, standard integration tests, swagger generation and JDBC connectivity
   * Developed and maintained multiple Terraform modules and Terragrunt tooling at an organization level to enforce policies around AWS usage and security.
     * responsible for the creation of standards and documentation which help provide guidance to the entire engineering department
     * presented at multiple internal AWS learning sessions
