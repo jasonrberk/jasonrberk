@@ -8,15 +8,15 @@ I am a highly motivated and self-driven individual looking for a full-stack soft
 
 ## Experience
 
-#### 10/2022 - 01/2023 Bonterra - Senior Software Engineer / Architect
+#### 10/2022 - 01/2023 [Bonterra](https://www.bonterratech.com/) - Senior Software Engineer / Architect
   * Provided AWS leadership and mentored teammates on Terraform state management best practices and module design.
   * Rearchitected Java integrations with Docusign and Adobe to implement more secure OAuth strategies and leverage webhook callbacks.
 
-#### 2014 - 10/2022 NextGear Capital - Senior Software Engineer
+#### 2014 - 10/2022 [NextGear Capital](https://www.nextgearcapital.com/) - Senior Software Engineer
   * Led a complete rebuild of our Graylog cluster utilizing AWS EC2, OpenSearch and SaltStack config management with Python/Jinja.
     * estimated savings of roughly $7,500/month while increasing production log retention
     * all infrastructure managed in Terraform
-  * Implemented a custom version of https://runatlantis.io allowing over 50 engineers to manage their own Terraform (TF) across roughly 30 AWS accounts.
+  * Implemented a custom version of [Atlantis](https://runatlantis.io) allowing over 50 engineers to manage their own Terraform (TF) across roughly 30 AWS accounts.
     * enforces company rules around the PR process and provides auditability
     * built with Node/ExpressJS and deployed as docker containers in AWS Fargate
     * all infrastructure managed in Terraform
@@ -56,5 +56,5 @@ I am a highly motivated and self-driven individual looking for a full-stack soft
   * 1995 - 1999 Purdue University - Computer Technology, Bachelor of Science
 
 ## Projects
-  * https://borrowedtimeeap.com - Web Designer / Maintainer
+  * [Borrowed Time EAP](https://borrowedtimeeap.com) - Web Designer / Maintainer
     * Built with NuxtJS using Tailwind CSS and hosted on GitHub Pages.
