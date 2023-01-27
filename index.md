@@ -22,7 +22,7 @@ I am a highly motivated and self-driven individual looking for a full-stack soft
     * all infrastructure managed in Terraform
   * Implemented custom Java miro-service tooling, allowing 50+ engineers to create new services in a consistent manner.
     * UI built with ReactJS and deployed in Nomad on-premise
-    * API build with Java and SpringBoot also deployed in Nomad on-premise and responsible for the creation of repositories, scaffolding code, Jenkins CI/CD jobs, Spring Cloud config stubs and Veracode registration
+    * API built with Java and SpringBoot also deployed in Nomad on-premise and responsible for the creation of repositories, scaffolding code, Jenkins CI/CD jobs, Spring Cloud config stubs and Veracode registration
   * Implemented Veracode integration tooling.  This helped developers identify regressions faster and increased overall security posture.
     * Java / SpringBoot app which uploads build artifacts and schedules scans
     * Java / SpringBoot app which downloads Veracode XML reports and synchronizes findings with our ticketing system
