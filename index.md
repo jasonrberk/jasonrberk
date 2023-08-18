@@ -8,6 +8,11 @@ I am a highly motivated and self-driven individual looking for a full-stack soft
 
 ## Experience
 
+#### 04/2023 - Present [K1x](https://k1x.io/) - Senior Engineer / Platform Engineer
+  * Helping provide cloud native solutions in Azure.  Working directly to support our Azure Kubernetes cluster
+  * Refactoring existing CI/CD pipelines in Azure DevOps to follow a more 12 factor design allowing feature teams to deploy code safer and faster.
+  * Building out Terraform modules from existing state for better isolation and reuse while increasing safety and decreasing infrastructure creation time
+
 #### 10/2022 - 01/2023 [Bonterra](https://www.bonterratech.com/) - Senior Software Engineer / Architect
   * Provided AWS leadership and mentored teammates on Terraform state management best practices and module design.
   * Rearchitected Java integrations with Docusign and Adobe to implement more secure OAuth strategies and leverage webhook callbacks.
