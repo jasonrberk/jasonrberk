@@ -13,11 +13,11 @@ I am a highly motivated and self-driven individual looking for a full-stack soft
   * Refactoring existing CI/CD pipelines in Azure DevOps to follow a more 12 factor design allowing feature teams to deploy code safer and faster.
   * Building out Terraform modules from existing state for better isolation and reuse while increasing safety and decreasing infrastructure creation time
 
-#### 10/2022 - 01/2023 [Bonterra](https://www.bonterratech.com/) - Senior Software Engineer / Architect
+#### 09/2022 - 02/2023 [Bonterra](https://www.bonterratech.com/) - Senior Software Engineer / Architect
   * Provided AWS leadership and mentored teammates on Terraform state management best practices and module design.
   * Rearchitected Java integrations with Docusign and Adobe to implement more secure OAuth strategies and leverage webhook callbacks.
 
-#### 2014 - 10/2022 [NextGear Capital](https://www.nextgearcapital.com/) - Senior Software Engineer
+#### 2014 - 09/2022 [NextGear Capital](https://www.nextgearcapital.com/) - Senior Software Engineer
   * Led a complete rebuild of our Graylog cluster utilizing AWS EC2, OpenSearch and SaltStack config management with Python/Jinja.
     * estimated savings of roughly $7,500/month while increasing production log retention
     * all infrastructure managed in Terraform
